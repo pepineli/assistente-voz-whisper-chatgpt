@@ -1,7 +1,3 @@
-# assistente-voz-whisper-chatgpt
-
----
-
 #  Assistente de Voz com Whisper + ChatGPT + gTTS
 
 **Bootcamp:** Bradesco GenAI & Dados - DIO  
